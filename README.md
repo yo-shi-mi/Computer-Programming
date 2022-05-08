@@ -2,7 +2,7 @@
 [L1: Python Introduction](https://github.com/yo-shi-mi/Computer-Programming/blob/master/20190918110712019.py)   
 [L2: Variables and Basic Operations](https://github.com/yo-shi-mi/Computer-Programming/blob/master/110712019.ipynb)  
 [L3: Data Type](https://github.com/yo-shi-mi/Computer-Programming/blob/master/0925_110712019.ipynb)  
-[L4: I/O]()  
+[L4: I/O](https://github.com/yo-shi-mi/Computer-Programming/blob/master/Python%20introduction%2004.ipynb)  
 [L5: Conditional Statement](https://github.com/yo-shi-mi/Computer-Programming/blob/master/L5_110712019.ipynb)  
 [L6: List](https://github.com/yo-shi-mi/Computer-Programming/blob/master/L6_110712019.ipynb)  
   
