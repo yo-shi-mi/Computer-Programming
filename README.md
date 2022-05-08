@@ -1,6 +1,6 @@
 # Computer-Programming  
 [L1: Python Introduction](https://github.com/yo-shi-mi/Computer-Programming/blob/master/20190918110712019.py)   
-[L2: Variables and Basic Operations]()  
+[L2: Variables and Basic Operations](https://github.com/yo-shi-mi/Computer-Programming/blob/master/110712019.ipynb)  
 [L3: Data Type]()  
 [L4: I/O]()  
 [L5: Conditional Statement]()  
